@@ -2,6 +2,8 @@
 
 A specialized Model Context Protocol (MCP) server for deep git repository investigation and analysis. This forensics tool provides detailed insights into repository history, branch relationships, and development patterns, focusing solely on git repository analysis rather than general GitHub or git operations.
 
+<a href="https://glama.ai/mcp/servers/xp4kpz0mdl"><img width="380" height="200" src="https://glama.ai/mcp/servers/xp4kpz0mdl/badge" alt="Git Forensics MCP server" /></a>
+
 ## Features
 
 The server provides four main analysis tools:
